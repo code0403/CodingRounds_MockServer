@@ -1,6 +1,16 @@
 {
-  
-  "dogs" : []
-
-  
+  "data": [
+     {
+      "name": "test",
+    "type": "string",
+    "default": "default",
+    "required": true
+     },
+     {
+      "name": "test2",
+      "type": "string",
+      "default": "default2",
+      "required": true
+     }
+  ]
 }
