@@ -4,19 +4,19 @@
       "id": 1,
       "Brand": "Tata",
 			"Type":"Manual",
-      "Year": 2019,
-      "kms": 10000,
+      "Year": "2019",
+      "kms": "10000",
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": "500000"
     },
     {
       "id":2,
       "Brand": "Tata",
 			"Type":"AMT",
-      "Year": 2017,
-      "kms": 8000,
+      "Year": "2017",
+      "kms": "8000",
       "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "Price": "800000"
     }
   ],
 
