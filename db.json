@@ -1,33 +1,100 @@
 {
-  "cars": [
-     {
-      "id": 1,
-      "Brand": "Tata",
-			"Type":"Manual",
-      "Year": 2021,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id":2,
-      "Brand": "Tata",
-			"Type":"AMT",
-      "Year": 2022,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "id":3,
-      "Brand": "Tata",
-      "Type":"Manual",
-      "Year": 2021,
-      "kms": 4000,
-      "Description": "Tata Safari with all original documents",
-      "Price": 900000
-    }
-  ],
+  "products" : [
+      {  "id" : 1,
+         "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "name" :  "Shirts",
+          "description" : "These are Shirts",
+          "Gender" : "Male",
+          "category" : "Shirts",
+          "Price" : 2450
+      },
 
-  "wishlisted_cars": []
+      {   "id": 2,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Male",
+           "category" : "Suits",
+           "Price" : 3450
+       },
+
+
+       {   "id": 3,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Male",
+           "category" : "Shirts",
+           "Price" : 1450
+       },
+
+
+       {   "id": 4,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Male",
+           "category" : "Jeans",
+           "Price" : 4450
+       },
+
+
+       {  "id": 5,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Female",
+           "category" : "Saree",
+           "Price" : 1450
+       },
+
+
+       {  "id": 6,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Female",
+           "category" : "Kurti",
+           "Price" : 3450
+       },
+
+       {  "id": 7,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Female",
+           "category" : "Jacktes",
+           "Price" : 4450
+       },
+
+
+       {  "id": 8,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Female",
+           "category" : "Kurti",
+           "Price" : 5450
+       },
+
+
+       {  "id": 9,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Male",
+           "category" : "Shirts",
+           "Price" : 450
+       },
+
+
+       {  "id": 10,
+          "image" : "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+           "name" :  "Shirts",
+           "description" : "These are Shirts",
+           "Gender" : "Female",
+           "category" : "Saree",
+           "Price" : 7450
+       }
+  ]
 }
